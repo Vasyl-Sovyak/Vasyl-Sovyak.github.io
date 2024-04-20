@@ -1,0 +1,27 @@
+{
+  "version": "3.84.31722.0",
+  "course_id": "6gk5A2wc8jM",
+  "title": "Untitled1",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Перевірте себе"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5kqDULiRSAv",
+      "title": "Drag and Drop",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 611
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
